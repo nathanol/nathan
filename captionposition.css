@@ -1,3 +1,6 @@
+.largePlayBtn.icon-play:before {
+    content: "";
+}
 .mwPlayerContainer .largePlayBtn, .mwPlayerContainer .largePlayBtn:hover{
     background-image: url('https://www.allthingssupplychain.com/wp-content/uploads/2020/10/GettyImages-1175106191-scaled.jpg');
     background-size: 93px 100px;
